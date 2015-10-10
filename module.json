@@ -23,6 +23,7 @@
     }
   ],
   "dependencies": {
-    "cmsis-no-hal": ">=0.1.0"
+    "cmsis-no-hal": ">=0.1.0",
+    "cmsis-core-lpc111x": ">=0.1.0"
   }
 }
